@@ -429,7 +429,7 @@ The journey isn't finished yet.
 
 # 👩‍💻 About Me
 
-Hi! I'm **Najma** 👋
+Hi! I'm **Naima** 👋
 
 I'm passionate about technology and software development, and I'm continuously working on improving my skills through structured learning and hands-on projects.
 
