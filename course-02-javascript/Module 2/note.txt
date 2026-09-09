@@ -1,0 +1,38 @@
+👩‍💻 Developer Summary
+Error	Simple meaning	Example
+SyntaxError	JavaScript cannot understand the code structure	let x = ;
+ReferenceError	Variable/function cannot be found	console.log(user)
+TypeError	Wrong type for an operation	"hello".pop()
+RangeError	Value is outside the allowed range	(10).toString(100)
+Logical Error	Code runs but produces the wrong result	a - b instead of a + b
+Bug	General programming mistake	Wrong calculation
+Runtime Error	Error that happens while code is running	ReferenceError, TypeError
+🧠 The easiest way to remember
+
+SyntaxError
+
+"I don't understand your code."
+
+ReferenceError
+
+"I can't find that variable."
+
+TypeError
+
+"You can't do that with this type."
+
+RangeError
+
+"That value is outside the allowed range."
+
+Logical Error
+
+"Your code works, but your thinking/logic is wrong."
+
+Bug
+
+"Something in your program isn't behaving as intended."
+
+try...catch
+
+"If something goes wrong while running, I'll handle it instead of letting the program crash."
